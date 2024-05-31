@@ -1,0 +1,14 @@
+.bar {
+  fill: steelblue;
+}
+
+.axis path,
+.axis line {
+  stroke: #e22222;  
+
+}
+
+.axis text {
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+}
